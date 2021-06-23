@@ -1,0 +1,24 @@
+{
+  "name": "demo1",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "刘旭",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/demo1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "0c035bfd594e105fa5b005e47ffb7e2476956b7d"
+}
