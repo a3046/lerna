@@ -1,5 +1,5 @@
 {
-  "name": "demo3",
+  "name": "demo3-lx",
   "version": "1.2.1",
   "description": "> TODO: description",
   "author": "刘旭",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/a3046/lerna/issues"
   },
-  "gitHead": "76a596b56e740debdaeeea1246c65fe9f00f0133"
+  "gitHead": "a00e3cde87ed83ce2e679eacf029966fae73a909"
 }
