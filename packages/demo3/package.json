@@ -1,11 +1,11 @@
 {
-  "name": "demo",
+  "name": "demo3",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "刘旭",
-  "homepage": "",
+  "homepage": "https://github.com/a3046/lerna/tree/main/packages/demo3#readme",
   "license": "ISC",
-  "main": "lib/demo.js",
+  "main": "lib/demo3.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -15,10 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/a3046/lerna.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "0c035bfd594e105fa5b005e47ffb7e2476956b7d"
+  "bugs": {
+    "url": "https://github.com/a3046/lerna/issues"
+  }
 }

@@ -1,18 +1,23 @@
 {
   "name": "liuxu",
-  "private": true,
+  "private": false,
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^4.0.1"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "author": "lx",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a3046/lerna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/a3046/lerna/issues"
+  },
+  "homepage": "https://github.com/a3046/lerna#readme",
   "description": ""
 }
